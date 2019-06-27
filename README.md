@@ -11,11 +11,13 @@ this is my first repoisitory
 
 1. my name is cody 
 
-	`		O
-			  \
-		    |_ \
-		   /|
-		   \|
-			^
-		   /  \
-		  /    \
+```
+            O
+              \
+            |_ \
+           /|
+           \|
+            ^
+           /  \
+          /    \
+```
